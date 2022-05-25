@@ -6,16 +6,16 @@ body {
     width: 25%;
 }
 
-#home {
+#home1 {
     background-color: rgb(114, 114, 114);
     color: white;
 }
 
-#portfolio{
+#portfolio1{
     background-color: rgb(114, 114, 114);
     color: white;
 }
-.card-body{
+.card-body1{
     color: black;
 }
 section {
