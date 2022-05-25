@@ -1,0 +1,28 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+#home {
+    background-color: rgb(114, 114, 114);
+    color: white;
+}
+
+#portfolio{
+    background-color: rgb(114, 114, 114);
+    color: white;
+}
+.card-body{
+    color: black;
+}
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
